@@ -1,0 +1,18 @@
+.entry-content a.btn {
+  border-bottom: 0;
+  max-width: 100px;
+  color: white;
+}
+.entry-content a.btn:hover {
+     color: white;
+}
+.castom_table th {
+    
+}
+.panel-heading div {
+  margin-top: -18px;
+  font-size: 15px;
+}
+.panel-body {
+  display: none;
+}
