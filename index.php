@@ -9,7 +9,7 @@ Author URI: https://www.fl.ru/users/FlashSkyline/
 License: 
 */
 include_once 'inc/loader.php';
-include("lib/class.mi_top_10_webhostings.php");
+include("class.mi_top_10_webhostings.php");
 
 $mi_top_10_webhostings = new mi_top_10_webhostings();
 
